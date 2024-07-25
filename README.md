@@ -1,2 +1,2 @@
-# RepoTemplate
-Template base para ser clonado em outros projetos
+# Exercícios e Comandos Básicos de SQL
+
